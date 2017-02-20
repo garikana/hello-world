@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi,
+This is just a text file created for learning committing in github.
